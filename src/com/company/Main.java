@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class Main {    ///wtf git fffuttttgggggg redhat
+public class Main {    ///wtf git fffuttttgggggg redhat gggg
 
     public static void main(String[] args) {
         System.out.println ("guess lamp" );

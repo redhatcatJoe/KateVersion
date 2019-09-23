@@ -38,7 +38,7 @@ public class Main {
                        i=4;
                    }
                    else  i = 0;
-                        System.out.println ("continue game11" );
+                        System.out.println ("continue game11" );//h
 
 
                     }
